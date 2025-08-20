@@ -1,11 +1,12 @@
-🌍 World Wide Energy Consumption – SQL Project
+## 🌍 World Wide Energy Consumption – SQL Project
+
 📌 Project Overview
 
 This project analyzes global energy consumption, production, emissions, GDP, and population data to understand the relationship between a country’s economic growth, energy usage, and environmental impact.
 
 By integrating multiple datasets into a relational SQL database, the project provides meaningful insights into global energy trends and sustainability challenges.
 
-🎯 Objectives
+## 🎯 Objectives
 
 Build a structured SQL database to store and manage worldwide energy-related data.
 
@@ -23,7 +24,7 @@ Analyze time-series trends to measure the impact of population growth and indust
 
 Provide per capita and ratio-based measures (e.g., emissions per capita, energy-to-GDP ratio).
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Database: SQL (MySQL / PostgreSQL)
 📊 Key Analysis Performed
@@ -44,7 +45,7 @@ Energy consumption per capita across countries.
 
 Top 10 most populated countries and their emission comparisons.
 
-✅ Insights & Findings
+## ✅ Insights & Findings
 
 A few countries (China, USA, India) account for the majority of global emissions.
 
@@ -53,7 +54,7 @@ Not all highly populated nations are the highest emitters – renewable adoption
 Countries with better efficiency & clean energy adoption show lower per capita emissions.
 
 Economic development and industrialization drive both higher energy use and emissions.
-🚀 Conclusion
+## 🚀 Conclusion
 
 This project highlights the urgent need for sustainable energy policies, clean energy adoption, and global cooperation to reduce emissions. Data-driven insights like these can guide policy makers, researchers, and organizations towards a greener and more sustainable future. 🌱
 
