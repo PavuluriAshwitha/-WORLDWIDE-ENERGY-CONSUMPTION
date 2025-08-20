@@ -1,6 +1,6 @@
 ## 🌍 World Wide Energy Consumption – SQL Project
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project analyzes global energy consumption, production, emissions, GDP, and population data to understand the relationship between a country’s economic growth, energy usage, and environmental impact.
 
